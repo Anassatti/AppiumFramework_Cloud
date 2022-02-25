@@ -1,5 +1,5 @@
 # AppiumFramework_Cloud
-This repo contains mobile automation framework using appium and the test execute on the cloud BrowserStack, include parallel execution
+This repo runs mobile automation solutions on the cloud environment(BrowserStack).
 
 **Technologies**
 
@@ -12,4 +12,5 @@ This repo contains mobile automation framework using appium and the test execute
 4.Testng
 
 5.Extentreport
-6. BrowserStack(cloud)
+
+6.BrowserStack(cloud)
